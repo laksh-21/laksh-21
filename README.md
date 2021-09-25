@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/laksh-21/">
   <img align="left" alt="Laksh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![](https://visitor-badge.glitch.me/badge?page_id=laksh-21.laksh-21)
 <br>
