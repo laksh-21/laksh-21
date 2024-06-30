@@ -15,28 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/laksh-21/">
-  <img align="left" alt="Laksh's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Laksh's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@laksh.ch21">
+  <img align="left" alt="Laksh's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <br/>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=laksh-21.laksh-21) -->
 <br/>
 
-Hi! i'm Laksh Chauhan, a passionate self-taught Android developer from India. 
-i am also an open-source enthusiast just starting my journey in terms of contributing though :). 
+Hi! i'm Laksh Chauhan, a Software Developer
 
-**languages and tools:**  
+I currently work as a full-time Software Developer working on backend development with Python and Java sparingly. We use MySQL as our database and use Flask with Gunicorn.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
-
-<br/>
-📈 my github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laksh-21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
-
+However, I have prior experience working with Java and AWS as well as Android development using Kotlin.
